@@ -1,14 +1,14 @@
 {
-  "name": "FireShell",
-  "title": "Fiercely quick and opinionated front-ends",
-  "url" : "http://getfireshell.com",
-  "author": "Todd Motto",
+  "name": "A New App",
+  "title": "A fresh new app. Better be good :)",
+  "url" : "http://ANewURL.com",
+  "author": "Chad Gloyd",
   "copyright": "2013",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "license": "MIT",
   "repository" : {
     "type" : "git",
-    "url" : "http://github.com/toddmotto/fireshell.git"
+    "url" : "http://github.com/Goulie81/fireshell.git"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
